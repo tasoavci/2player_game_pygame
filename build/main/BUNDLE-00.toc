@@ -1,0 +1,1 @@
+([('main', '/Users/tasoavci/2player_game_pygame/dist/main', 'EXECUTABLE')],)
